@@ -13,8 +13,8 @@ Info
 
 Setup
 -----
-1. Add `CMakeLists.txt` [#DONE](524afe718ec89efa4562797b0fc2f4cb1e196eb9)
-2. Fix `ae_kqueue.c` header include [#DONE](1364f6966d739bbb64e55e769c1554e5e6136833)
+1. Add `CMakeLists.txt` [#DONE](commit/524afe718ec89efa4562797b0fc2f4cb1e196eb9)
+2. Fix `ae_kqueue.c` header include [#DONE](commit/1364f6966d739bbb64e55e769c1554e5e6136833)
 3. Generate `release.h`
     - execute `mkreleasehdr.sh` before first run
 
